@@ -1,0 +1,32 @@
+# Original and generated datasets
+data/
+CTU-13-Dataset/
+*.binetflow
+*.biargus
+*.pcap
+*.pcapng
+*.pkl
+*.npy
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+
+# Logs and batch outputs
+logs/
+*.out
+*.err
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset reconstruction workflow, please cite this repository and the original CTU-13 publication."
+type: software
+title: "CTU-13 Host-Window Graph Dataset Builder"
+version: 1.0.0
+date-released: 2026-08-29
+license: MIT
+authors:
+  - family-names: "Rivera Rodriguez"
+    given-names: "Raul"
+  - family-names: "Gonzalez Trejo"
+    given-names: "Jose Enrique"
+  - family-names: "Garcia Loya"
+    given-names: "Eduardo"
+  - family-names: "Lozano Rizk"
+    given-names: "Jose E."
+  - family-names: "Villarreal Reyes"
+    given-names: "Salvador"
+keywords:
+  - CTU-13
+  - botnet detection
+  - graph neural networks
+  - network security
+  - reproducibility

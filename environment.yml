@@ -1,0 +1,9 @@
+name: ctu13-graph-builder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.15
+  - numpy=2.3.5
+  - pandas=3.0.2
+  - networkx=3.6.1
+  - scipy=1.17.1

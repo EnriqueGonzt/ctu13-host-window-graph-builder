@@ -1,0 +1,3 @@
+ccea8a5796e48763d93d804f7c9ca2435725f0f1e14fd49ad92495e40b58fdc8  data/processed/dataset_windowed_all13_rich.pkl
+f15f2aaecf739102001668b2047f73db21df476486fcd3166e75059cfb5af266  data/processed/struct7_v3.npy
+e7320e4e5f5d884060d77a560e96516c05ffea3f0a1c68cf9ef19dd61c0ec3e0  data/processed/struct7_v3.json
